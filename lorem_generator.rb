@@ -1,11 +1,3 @@
-# Crear un programa llamado lorem_generator.rb 
-# en ruby que sea capaz de mostrar en pantalla
-# varios parrafos de Lorem ipsum, donde el número 
-# de párrafos se especifica al cargar el script. 
-# (El texto puede ser extraído del primer párrafo de https://www.lipsum.com/feed/html)
-# Uso:
-# ruby lorem_generator.rb
-
 puts "Please, indicate a number of paragraphs"
 data = gets.chomp.to_i
 
